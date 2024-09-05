@@ -1,0 +1,6 @@
+# Ignorar todas las imágenes en las subcarpetas de data_set_4
+data/Punto-4/train/*
+data/Punto-4/test/*
+
+# Ignorar un archivo .zip específico
+data/Punto-4/archive.zip
