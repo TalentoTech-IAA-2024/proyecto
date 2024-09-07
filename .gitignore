@@ -6,3 +6,4 @@ data/Punto-4/test/*
 data/Punto-3/Ratings.csv
 # Ignorar un archivo .zip específico
 data/Punto-4/archive.zip
+.env
